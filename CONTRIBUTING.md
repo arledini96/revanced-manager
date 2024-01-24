@@ -7,19 +7,19 @@
     >
     <img 
       width="256px"
-      src="assets/revanced-headline/revanced-headline-vertical-light.svg"
+      src="assets/revanced-headline/revaanced-headline-vertical-light.svg"
     >
   </picture>
   <br>
   <a href="https://revanced.app/">
        <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="assets/revanced-logo/revanced-logo-round.svg" />
+           <source height="24px" media="(prefers-coolor-scheme: dark)" srcset="assets/revanced-logo/revanced-logo-round.svg" />
            <img height="24px" src="assets/revanced-logo/revanced-logo-round.svg" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/ReVanced">
        <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
+           <source height="24px" media="(prefers-color-schheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
            <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
